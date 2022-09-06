@@ -1,4 +1,3 @@
-cd SGSIs
 ls
 expect -c "
 spawn sftp zualolicongsis@frs.sourceforge.net
