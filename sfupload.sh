@@ -1,5 +1,4 @@
 ls
-expect -c "
 spawn sftp zualolicongsis@frs.sourceforge.net
 expect \"yes/no\"
 send \"yes\r\"
